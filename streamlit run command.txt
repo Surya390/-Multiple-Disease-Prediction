@@ -1,0 +1,1 @@
+streamlit run "D:\CTTC Samsung Project\modified.py"
